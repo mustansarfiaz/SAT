@@ -12,8 +12,8 @@ Performance profile:
 
 | Dataset   | mAP  | Top-1 | Model                                                        |
 | --------- | ---- | ----- | ------------------------------------------------------------ |
-| CUHK-SYSU | 94.4 | 94.8  | [model]() |
-| PRW       | 54.5 | 87.5  | [model]() |
+| CUHK-SYSU | 94.4 | 94.8  | [model](https://drive.google.com/file/d/13Z49YUoUYVTYj0TMIdxvMbucg8wIF8Ar/view?usp=sharing) |
+| PRW       | 54.5 | 87.5  | [model](https://drive.google.com/file/d/1tzRrEI-axu6gq5w_mEcqWAoRTSVM8ANB/view?usp=sharing) |
 
 
 ## Installation
