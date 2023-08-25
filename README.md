@@ -71,7 +71,7 @@ python train.py --cfg $ROOT/exp_cuhk/config.yaml --eval --ckpt $ROOT/exp_cuhk/ep
 ```
 
 ## Contact
-Should you have any questions, please create an issue on this repository or contact us at mustansar.fiaz@mbzuai.ac.ae
+If you have any questions, please create an issue on this repository or contact us at mustansar.fiaz@mbzuai.ac.ae
 
 <hr />
 
