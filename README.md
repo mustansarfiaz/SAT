@@ -76,7 +76,7 @@ Should you have any questions, please create an issue on this repository or cont
 <hr />
 
 ## References
-Our code is based on [SeqNet](https://github.com/serend1p1ty/SeqNet) and [COAT](https://github.com/Kitware/COAT)  repository. 
+Our code is based on [SeqNet](https://github.com/serend1p1ty/SeqNet) and [COAT](https://github.com/Kitware/COAT)  repositories. 
 We thank them for releasing their baseline code.
 
 
