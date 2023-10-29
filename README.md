@@ -85,7 +85,7 @@ We thank them for releasing their baseline code.
 ## Citation
 
 ```
-@inproceedings{fiaz2022sat,
+@inproceedings{fiaz2023sat,
   title={SAT: Scale-Augmented Transformer for Person Search},
   author={Fiaz, Mustansar and Cholakkal, Hisham and Anwar, Rao Muhammad and Khan, Fahad Shahbaz},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
