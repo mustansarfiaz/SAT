@@ -90,4 +90,10 @@ We thank them for releasing their baseline code.
   author={Fiaz, Mustansar and Cholakkal, Hisham and Anwar, Rao Muhammad and Khan, Fahad Shahbaz},
   booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
   year={2023}
+@inproceedings{fiaz2022psarm,
+  title={PS-ARM: An End-to-End Attention-aware Relation Mixer Network for Person Search},
+  author={Fiaz, Mustansar and Cholakkal, Hisham and Narayan, Sanath and Anwar, Rao Muhammad and Khan, Fahad Shahbaz},
+  booktitle={Proceedings of the ACCV Asian Conference on Computer Vision}, 
+  year={2022}
+}
 }
