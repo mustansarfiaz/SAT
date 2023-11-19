@@ -25,7 +25,7 @@ Create the environment using yml  `conda env create -f satnet.yml` in the root d
 
 Let's say `$ROOT` is the root directory.
 
-1. Download [CUHK-SYSU](https://drive.google.com/open?id=1z3LsFrJTUeEX3-XjSEJMOBrslxD2T5af) and [PRW](https://goo.gl/2SNesA) datasets, and unzip them to `$ROOT/data`
+1. Download [CUHK-SYSU](https://drive.google.com/open?id=1z3LsFrJTUeEX3-XjSEJMOBrslxD2T5af) and [PRW](http://pan.baidu.com/s/1i5tqYbj) datasets, and unzip them to `$ROOT/data`
 ```
 $ROOT/data
 ├── CUHK-SYSU
