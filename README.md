@@ -79,7 +79,7 @@ If you have any questions, please create an issue on this repository or contact 
 Our code is based on [SeqNet](https://github.com/serend1p1ty/SeqNet) and [COAT](https://github.com/Kitware/COAT)  repositories. 
 We thank them for releasing their baseline code.
 
-**SAT**: "SAT: Scale-Augmented Transformer for Person Search", ACCV, 2022 (*MBZUAI*). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Fiaz_SAT_Scale-Augmented_Transformer_for_Person_Search_WACV_2023_paper.pdf)][[PyTorch](https://github.com/mustansarfiaz/SAT)]
+**SAT**: "SAT: Scale-Augmented Transformer for Person Search", WACV, 2022 (*MBZUAI*). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Fiaz_SAT_Scale-Augmented_Transformer_for_Person_Search_WACV_2023_paper.pdf)][[PyTorch](https://github.com/mustansarfiaz/SAT)]
 
 
 ## Citation
